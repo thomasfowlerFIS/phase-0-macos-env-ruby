@@ -25,7 +25,7 @@ installed, but it may not be linked properly. To fix:
 
 Ruby Environment Manager (RVM) is a tool that will allow you to download and
 install multiple versions of Ruby, one of the programming languages that we
-teach at Flatiron School. This is the first step in installing Ruby on your
+teach at Academy Xi. This is the first step in installing Ruby on your
 macOS operating system.
 
 ### Action Item
